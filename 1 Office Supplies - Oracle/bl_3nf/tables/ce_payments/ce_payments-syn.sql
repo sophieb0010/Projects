@@ -1,0 +1,1 @@
+CREATE SYNONYM ce_payments FOR bl_3nf.ce_payments;

@@ -1,0 +1,1 @@
+CREATE SEQUENCE ce_countries_seq;

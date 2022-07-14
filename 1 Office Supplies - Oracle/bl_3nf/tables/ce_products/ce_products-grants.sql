@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT, UPDATE, DELETE ON bl_3nf.ce_products TO bl_cl;

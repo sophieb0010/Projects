@@ -1,0 +1,1 @@
+CREATE SEQUENCE ce_markets_seq;

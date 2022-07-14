@@ -1,0 +1,1 @@
+CREATE SYNONYM dim_customers FOR bl_dm.dim_customers;

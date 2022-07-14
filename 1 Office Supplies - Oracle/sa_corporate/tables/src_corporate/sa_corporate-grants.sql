@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT, UPDATE, DELETE ON sa_corporate.src_corporate TO bl_cl;

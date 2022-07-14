@@ -1,0 +1,1 @@
+CREATE SYNONYM dim_shippings FOR bl_dm.dim_shippings;

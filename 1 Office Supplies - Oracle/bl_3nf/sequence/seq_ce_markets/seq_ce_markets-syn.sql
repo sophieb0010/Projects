@@ -1,0 +1,1 @@
+CREATE SYNONYM ce_markets_seq FOR bl_3nf.ce_markets_seq;

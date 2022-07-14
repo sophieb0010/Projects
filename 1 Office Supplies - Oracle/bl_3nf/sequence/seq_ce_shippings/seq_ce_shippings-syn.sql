@@ -1,0 +1,1 @@
+CREATE SYNONYM ce_shippings_seq FOR bl_3nf.ce_shippings_seq;

@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT, UPDATE, DELETE ON bl_3nf.ce_product_subcategories TO bl_cl;

@@ -1,0 +1,1 @@
+CREATE SYNONYM ce_employees FOR bl_3nf.ce_employees;

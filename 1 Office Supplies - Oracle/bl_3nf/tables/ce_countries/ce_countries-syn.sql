@@ -1,0 +1,1 @@
+CREATE SYNONYM ce_countries FOR bl_3nf.ce_countries;

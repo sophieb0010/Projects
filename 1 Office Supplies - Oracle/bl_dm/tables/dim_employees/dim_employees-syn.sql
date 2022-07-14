@@ -1,0 +1,1 @@
+CREATE SYNONYM dim_employees FOR bl_dm.dim_employees;

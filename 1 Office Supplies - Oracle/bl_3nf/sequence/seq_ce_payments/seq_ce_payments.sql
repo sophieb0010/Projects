@@ -1,0 +1,1 @@
+CREATE SEQUENCE ce_payments_seq;

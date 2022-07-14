@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT, UPDATE, DELETE ON bl_dm.dim_payments_scd TO bl_cl;

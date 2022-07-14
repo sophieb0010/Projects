@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT, UPDATE, DELETE ON bl_dm.dim_customers TO bl_cl;

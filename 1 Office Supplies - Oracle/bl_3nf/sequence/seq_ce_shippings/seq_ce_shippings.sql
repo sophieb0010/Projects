@@ -1,0 +1,1 @@
+CREATE SEQUENCE ce_shippings_seq;

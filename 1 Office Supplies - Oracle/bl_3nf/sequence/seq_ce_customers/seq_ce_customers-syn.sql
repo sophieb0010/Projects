@@ -1,0 +1,1 @@
+CREATE SYNONYM ce_customers_seq FOR bl_3nf.ce_customers_seq;

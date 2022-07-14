@@ -1,0 +1,1 @@
+CREATE SEQUENCE dim_cities_seq;

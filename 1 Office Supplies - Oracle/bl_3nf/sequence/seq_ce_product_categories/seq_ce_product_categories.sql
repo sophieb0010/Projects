@@ -1,0 +1,1 @@
+CREATE SEQUENCE ce_product_categories_seq;

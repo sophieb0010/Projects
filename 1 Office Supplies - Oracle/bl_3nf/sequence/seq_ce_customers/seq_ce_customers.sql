@@ -1,0 +1,1 @@
+CREATE SEQUENCE ce_customers_seq;

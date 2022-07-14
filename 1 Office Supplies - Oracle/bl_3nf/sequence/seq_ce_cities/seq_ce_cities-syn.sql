@@ -1,0 +1,1 @@
+CREATE SYNONYM ce_cities_seq FOR bl_3nf.ce_cities_seq;

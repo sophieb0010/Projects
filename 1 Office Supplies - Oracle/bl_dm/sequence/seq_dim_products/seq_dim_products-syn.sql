@@ -1,0 +1,1 @@
+CREATE SYNONYM dim_products_seq FOR bl_dm.dim_products_seq;

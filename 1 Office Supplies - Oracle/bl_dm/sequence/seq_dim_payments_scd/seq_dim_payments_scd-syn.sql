@@ -1,0 +1,1 @@
+CREATE SYNONYM dim_payments_scd_seq FOR bl_dm.dim_payments_scd_seq;

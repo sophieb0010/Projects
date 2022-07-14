@@ -1,0 +1,1 @@
+CREATE SEQUENCE dim_payments_scd_seq;

@@ -1,0 +1,1 @@
+CREATE SYNONYM ce_orders_seq FOR bl_3nf.ce_orders_seq;

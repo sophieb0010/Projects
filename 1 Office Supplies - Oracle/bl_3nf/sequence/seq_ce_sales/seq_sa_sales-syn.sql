@@ -1,0 +1,1 @@
+CREATE SYNONYM ce_sales_seq FOR bl_3nf.ce_sales_seq;

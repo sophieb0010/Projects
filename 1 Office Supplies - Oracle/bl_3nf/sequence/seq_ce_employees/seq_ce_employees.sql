@@ -1,0 +1,1 @@
+CREATE SEQUENCE ce_employees_seq;

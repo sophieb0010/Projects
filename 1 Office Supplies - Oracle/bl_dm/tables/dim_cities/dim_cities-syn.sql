@@ -1,0 +1,1 @@
+CREATE SYNONYM dim_cities FOR bl_dm.dim_cities;
